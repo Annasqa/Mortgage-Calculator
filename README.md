@@ -1,8 +1,8 @@
-### Basic Project2
+### Mortgage Calculator Project
 
-### March 26
+### March 28
 
-A Basic Structure for Maven Projects
+A Basic Mortgage Calcultor Project
 
 * Git
 * Java 7
